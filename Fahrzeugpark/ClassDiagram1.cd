@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fahrzeugpark.Fahrzeug">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAQAAEAAAwAAAQAAAACAEEIAEAAQAQSQAA=</HashCode>
+      <FileName>Fahrzeug.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fahrzeugpark.Flugzeug">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAgAAIAAAAAAAAAEAAAIAAAARAAAAAA=</HashCode>
+      <FileName>Flugzeug.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fahrzeugpark.PKW">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAIIAQAAAAAAAAAAIBAAAQAAAAAA=</HashCode>
+      <FileName>PKW.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fahrzeugpark.Schiff">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Fahrzeugpark.Schiff.Schiffstreibstoff">
+        <TypeIdentifier>
+          <NewMemberFileName>Schiff.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAIAAAAAAAABBAAAAIAAAQQAAABAA=</HashCode>
+      <FileName>Schiff.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fahrzeugpark.My.MySettings">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Fahrzeugpark.IBeladbar">
+    <Position X="12.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>IBeladbar.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Fahrzeugpark.IBewegbar">
+    <Position X="14.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBewegbar.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Module Name="Fahrzeugpark.My.Resources.Resources">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Fahrzeugpark.My.MySettingsProperty">
+    <Position X="14.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

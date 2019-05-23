@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\kh2\source\repos\VBNET_München\Delegates\bin\Debug\Delegates.exe
+C:\Users\kh2\source\repos\VBNET_München\Delegates\bin\Debug\Delegates.pdb
+C:\Users\kh2\source\repos\VBNET_München\Delegates\bin\Debug\Delegates.xml
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.exe
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.xml
+C:\Users\kh2\source\repos\VBNET_München\Delegates\obj\Debug\Delegates.pdb

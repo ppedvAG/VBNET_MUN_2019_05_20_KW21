@@ -1,0 +1,4 @@
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","AnzahlTüren":5,"RäderAnzahl":4,"Name":"BMW","MaxGeschwindigkeit":270,"AktGeschwindigkeit":0,"Preis":29000.0,"Zustand":false}
+{"$type":"Fahrzeugpark.Flugzeug, Fahrzeugpark","MaxFlughöhe":9999,"RäderAnzahl":12,"Name":"Boing","MaxGeschwindigkeit":900,"AktGeschwindigkeit":0,"Preis":3000000.0,"Zustand":false}
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","AnzahlTüren":5,"RäderAnzahl":4,"Name":"BMW","MaxGeschwindigkeit":270,"AktGeschwindigkeit":0,"Preis":29000.0,"Zustand":false}
+{"$type":"Fahrzeugpark.Flugzeug, Fahrzeugpark","MaxFlughöhe":9999,"RäderAnzahl":12,"Name":"Boing","MaxGeschwindigkeit":900,"AktGeschwindigkeit":0,"Preis":3000000.0,"Zustand":false}

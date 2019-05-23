@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\bin\Debug\MiniRechner.exe.config
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\bin\Debug\MiniRechner.exe
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\bin\Debug\MiniRechner.pdb
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\bin\Debug\MiniRechner.xml
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.exe
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.xml
+C:\Users\kh2\source\repos\VBNET_München\MiniRechner\obj\Debug\MiniRechner.pdb

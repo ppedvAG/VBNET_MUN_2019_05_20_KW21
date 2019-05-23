@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\bin\Debug\ZufallsZahlenRatespiel.exe.config
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\bin\Debug\ZufallsZahlenRatespiel.exe
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\bin\Debug\ZufallsZahlenRatespiel.pdb
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\bin\Debug\ZufallsZahlenRatespiel.xml
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.exe
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.xml
+C:\Users\kh2\source\repos\VBNET_München\ZufallsZahlenRatespiel\obj\Debug\ZufallsZahlenRatespiel.pdb

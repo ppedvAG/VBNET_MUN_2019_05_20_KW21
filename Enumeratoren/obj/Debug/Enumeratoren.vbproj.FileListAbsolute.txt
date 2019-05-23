@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\bin\Debug\Enumeratoren.exe.config
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\bin\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\bin\Debug\Enumeratoren.pdb
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\bin\Debug\Enumeratoren.xml
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.exe
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.xml
+C:\Users\kh2\source\repos\VBNET_München\Enumeratoren\obj\Debug\Enumeratoren.pdb

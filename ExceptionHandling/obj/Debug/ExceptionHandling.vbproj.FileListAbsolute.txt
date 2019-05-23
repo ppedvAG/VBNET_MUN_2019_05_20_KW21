@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\bin\Debug\ExceptionHandling.xml
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.xml
+C:\Users\kh2\source\repos\VBNET_München\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

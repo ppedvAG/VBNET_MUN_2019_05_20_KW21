@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\VBNET_München\Methoden\bin\Debug\Methoden.exe.config
+C:\Users\kh2\source\repos\VBNET_München\Methoden\bin\Debug\Methoden.exe
+C:\Users\kh2\source\repos\VBNET_München\Methoden\bin\Debug\Methoden.pdb
+C:\Users\kh2\source\repos\VBNET_München\Methoden\bin\Debug\Methoden.xml
+C:\Users\kh2\source\repos\VBNET_München\Methoden\obj\Debug\Methoden.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\Methoden\obj\Debug\Methoden.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\Methoden\obj\Debug\Methoden.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\Methoden\obj\Debug\Methoden.exe
+C:\Users\kh2\source\repos\VBNET_München\Methoden\obj\Debug\Methoden.xml
+C:\Users\kh2\source\repos\VBNET_München\Methoden\obj\Debug\Methoden.pdb

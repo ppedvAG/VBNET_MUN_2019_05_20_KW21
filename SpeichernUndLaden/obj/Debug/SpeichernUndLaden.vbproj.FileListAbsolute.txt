@@ -1,0 +1,12 @@
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.exe.config
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.exe
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.pdb
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.xml
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.Form1.resources
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.exe
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.xml
+C:\Users\kh2\source\repos\VBNET_München\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.pdb

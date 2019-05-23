@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\kh2\source\repos\VBNET_München\Lotto\bin\Debug\Lotto.exe
+C:\Users\kh2\source\repos\VBNET_München\Lotto\bin\Debug\Lotto.pdb
+C:\Users\kh2\source\repos\VBNET_München\Lotto\bin\Debug\Lotto.xml
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.exe
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.xml
+C:\Users\kh2\source\repos\VBNET_München\Lotto\obj\Debug\Lotto.pdb

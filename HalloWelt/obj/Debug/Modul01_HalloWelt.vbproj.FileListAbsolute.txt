@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\bin\Debug\HalloWelt.exe.config
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\bin\Debug\HalloWelt.exe
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\bin\Debug\HalloWelt.pdb
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\bin\Debug\HalloWelt.xml
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\Modul01_HalloWelt.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\HalloWelt.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\Modul01_HalloWelt.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\Modul01_HalloWelt.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\HalloWelt.exe
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\HalloWelt.xml
+C:\Users\kh2\source\repos\VBNET_München\HalloWelt\obj\Debug\HalloWelt.pdb

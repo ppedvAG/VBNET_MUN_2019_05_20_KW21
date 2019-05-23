@@ -1,0 +1,12 @@
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\bin\Debug\ButtonMovement.exe.config
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\bin\Debug\ButtonMovement.exe
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\bin\Debug\ButtonMovement.pdb
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\bin\Debug\ButtonMovement.xml
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.Form1.resources
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.exe
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.xml
+C:\Users\kh2\source\repos\VBNET_München\ButtonMovement\obj\Debug\ButtonMovement.pdb

@@ -1,0 +1,12 @@
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\bin\Debug\WindowsFormsTest.xml
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.vbprojAssemblyReference.cache
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.Form1.resources
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.xml
+C:\Users\kh2\source\repos\VBNET_München\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb

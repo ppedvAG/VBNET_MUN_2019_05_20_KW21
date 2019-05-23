@@ -1,0 +1,11 @@
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.exe.config
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.exe
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.pdb
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\bin\Debug\Kontrollstrukturen.xml
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.Resources.resources
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.vbproj.GenerateResource.cache
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.vbproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.exe
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.xml
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.pdb
+C:\Users\kh2\source\repos\VBNET_München\Kontrollstrukturen\obj\Debug\Kontrollstrukturen.vbprojAssemblyReference.cache
